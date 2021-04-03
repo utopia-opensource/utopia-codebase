@@ -22,6 +22,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 
 * [crypton-rate-app](https://github.com/Sagleft/crypton-rate-app) - A simple Android application for checking Crypton rate.
 * [utopialib-java](https://github.com/Sagleft/utopialib-java) - Utopia Ecosystem API wrapper written in Java.
+* [ucode-android-app](https://github.com/utopia-opensource/ucode-android-app) - Application allows you to receive uCode or QRCode based on the public key of the Utopia Client profile.
 
 ## PHP
 
