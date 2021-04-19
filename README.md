@@ -24,6 +24,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [utopialib-java](https://github.com/utopia-opensource/utopialib-java) - Utopia Ecosystem API wrapper written in Java.
 * [ucode-android-app](https://github.com/utopia-opensource/ucode-android-app) - Application allows you to receive uCode or QRCode based on the public key of the Utopia Client profile.
 * [crypton-java-payment-example](https://github.com/utopia-opensource/crypton-java-payment-example) - An example of working with sending Crypton in Utopia Ecosystem.
+* [utopia-mass-messaging](https://github.com/utopia-opensource/utopia-mass-messaging) - example for the Utopia API has been created, which shows the possibility of using mass messaging.
 
 ## PHP
 
