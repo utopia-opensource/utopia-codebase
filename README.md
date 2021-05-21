@@ -39,6 +39,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [utopia-auth](https://github.com/utopia-opensource/utopia-auth) - Example of user authorization on your web service in Utopia Network.
 * [diano-bot](https://github.com/Sagleft/diano-bot) - Bot for transporting content between messengers.
 * [crypton-open-api](https://github.com/utopia-opensource/crypton-open-api) - Crypton open API from exchanges & U Network.
+* [crypton-click](https://github.com/Sagleft/crypton-click) - Service for shortening links to Utopia channels and chats.
 
 ## JS / NodeJS / etc
 * [utopia-webapp](https://github.com/utopia-opensource/utopia-webapp) - An example of a lightweight HTML5 application using the Utopia RESTful API.
