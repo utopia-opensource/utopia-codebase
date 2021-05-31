@@ -17,6 +17,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [utopia-csharp-template](https://github.com/utopia-opensource/utopia-csharp-template) - C# ready-made MVP application template for starting the development of your utility, working with the Utopia Ecosystem API.
 * [utopia-paper-voucher](https://github.com/utopia-opensource/utopia-paper-voucher) - utility for generating paper vouchers that can be used for promotional purposes at events.
 * [utp-unity-asset](https://github.com/utopia-opensource/utp-unity-asset) - Unity-asset to work with the Utopia Ecosystem API.
+* [UtopiaBOT (RU)](https://github.com/utopiap2p-events/UtopiaBOT) - Бот Telegram для проекта Utopia P2P.
 
 ## Java
 
@@ -25,6 +26,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [ucode-android-app](https://github.com/utopia-opensource/ucode-android-app) - Application allows you to receive uCode or QRCode based on the public key of the Utopia Client profile.
 * [crypton-java-payment-example](https://github.com/utopia-opensource/crypton-java-payment-example) - An example of working with sending Crypton in Utopia Ecosystem.
 * [utopia-mass-messaging](https://github.com/utopia-opensource/utopia-mass-messaging) - example for the Utopia API has been created, which shows the possibility of using mass messaging.
+* [SendMAndATUtopiaJava](https://github.com/utopiap2p-events/SendMAndATUtopiaJava) - sends cryptocurrency to the Utopia ecosystem using the Utopia API.
 
 ## PHP
 
@@ -40,6 +42,8 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [diano-bot](https://github.com/Sagleft/diano-bot) - Bot for transporting content between messengers.
 * [crypton-open-api](https://github.com/utopia-opensource/crypton-open-api) - Crypton open API from exchanges & U Network.
 * [crypton-click](https://github.com/Sagleft/crypton-click) - Service for shortening links to Utopia channels and chats.
+* [crypton-donation](https://github.com/utopiap2p-events/crypton-donation) - Web service for donating in Crypton.
+* [crypton-address-shortener](https://github.com/utopiap2p-events/crypton-address-shortener) - Library for handling Crypton addresses and vouchers.
 
 ## JS / NodeJS / etc
 * [utopia-webapp](https://github.com/utopia-opensource/utopia-webapp) - An example of a lightweight HTML5 application using the Utopia RESTful API.
@@ -64,6 +68,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 
 ## Other
 * [crypton_zgcom_api.md](https://gist.github.com/Sagleft/6078fb4f9014f9d0fcf030c515460e3b) - Let's look at the ZG.com exchange API to get data about Crypton.
+* [WP_Utopia_Service (RU)](https://github.com/utopiap2p-events/WP_Utopia_Service) - Концепция сервиса платных подписок в Crypton.
 
 ---
 
