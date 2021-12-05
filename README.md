@@ -66,6 +66,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [crypton-go-vouchers](https://github.com/utopia-opensource/crypton-go-vouchers) - Crypton Donation Library used to work with vouchers written in Go.
 * [reddit2utopia](https://github.com/Sagleft/reddit2utopia) - Bot for throwing posts from Reddit to Utopia with indication of the source.
 * [account-balance-go](https://github.com/utopia-opensource/account-balance-go) - Example of querying the balance of Crypton and UUSD with Utopia Ecosystem API and utopialib-go.
+* [uexchange-go](https://github.com/utopia-opensource/uexchange-go) - Library for working with the exchange UUSD and Crypton written in Golang.
 
 ## Other
 * [crypton_zgcom_api.md](https://gist.github.com/Sagleft/6078fb4f9014f9d0fcf030c515460e3b) - Let's look at the ZG.com exchange API to get data about Crypton.
