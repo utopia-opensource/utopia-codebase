@@ -71,6 +71,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 ## Other
 * [crypton_zgcom_api.md](https://gist.github.com/Sagleft/6078fb4f9014f9d0fcf030c515460e3b) - Let's look at the ZG.com exchange API to get data about Crypton.
 * [WP_Utopia_Service (RU)](https://github.com/utopiap2p-events/WP_Utopia_Service) - Концепция сервиса платных подписок в Crypton.
+* [crypton-frostbox-whitepaper](https://github.com/utopia-opensource/crypton-frostbox-whitepaper) - White paper of cryptocurrency freezing service for the long term.
 
 ---
 
