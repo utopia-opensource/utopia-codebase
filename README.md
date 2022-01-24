@@ -50,6 +50,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [utopia-nodejs-api](https://github.com/Oocrop/utopia-nodejs-api) - NodeJS library for Utopia API.
 * [utopia-deno](https://github.com/utopia-opensource/utopia-deno) - Deno library for Utopia API.
 * [crypton-widget](https://jsfiddle.net/Neop39Ce/snygk4ut/39) - Example of creating a widget for a site or application with Crypton course data.
+* [uexchange-nodej](https://github.com/utopia-opensource/uexchange-nodejs) - Crypton Exchange API wrapper written in NodeJS.
 
 ## Python
 * [PytopiaAPI](https://github.com/Dest0re/PytopiaAPI) - Utopia Ecosystem API for Python 3.
