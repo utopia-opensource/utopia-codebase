@@ -1,5 +1,4 @@
-
-# Utopia Codebase
+![logo](codebase.png)
 
 Welcome, here you will find a set of projects from the Utopia Ecosystem community, which are independent projects or examples on the use of UtopiaAPI.
 
