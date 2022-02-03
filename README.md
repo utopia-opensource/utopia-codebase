@@ -71,6 +71,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [UtpPostTelebot](https://github.com/CtrCat/UtpPostTelebot) - The ability to send messages to the Utopia channel directly from the telegram.
 * [UcodeQrTelebot_ver2](https://github.com/utopia-opensource/UcodeQrTelebot_ver2) - Easy way to get QR and U-code using Utopia API in telegram bot.
 * [utopia-funnel](https://github.com/utopia-opensource/utopia-funnel) - Telegram bot with a funnel to attract users.
+* [uexchange-widgets](https://github.com/utopia-opensource/uexchange-widgets) - Widgets for sites with data from Crypton exchange.
 
 ## Other
 * [crypton_zgcom_api.md](https://gist.github.com/Sagleft/6078fb4f9014f9d0fcf030c515460e3b) - Let's look at the ZG.com exchange API to get data about Crypton.
