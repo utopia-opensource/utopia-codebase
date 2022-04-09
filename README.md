@@ -51,6 +51,7 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [crypton-widget](https://jsfiddle.net/Neop39Ce/snygk4ut/39) - Example of creating a widget for a site or application with Crypton course data.
 * [uexchange-nodej](https://github.com/utopia-opensource/uexchange-nodejs) - Crypton Exchange API wrapper written in NodeJS.
 * [uexchange-js](https://github.com/utopia-opensource/uexchange-js) - Crypton Exchange API wrapper written in Javascript.
+* [discord-inviter](https://github.com/utopia-opensource/discord-inviter) - Bot for accepting applications to join the descord-server via Utopia user public key.
 
 ## Python
 * [PytopiaAPI](https://github.com/Dest0re/PytopiaAPI) - Utopia Ecosystem API for Python 3.
