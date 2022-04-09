@@ -27,6 +27,10 @@ Here is a library of open-source code for the Utopia Ecosystem platform from the
 * [utopia-mass-messaging](https://github.com/utopia-opensource/utopia-mass-messaging) - example for the Utopia API has been created, which shows the possibility of using mass messaging.
 * [SendMAndATUtopiaJava](https://github.com/utopiap2p-events/SendMAndATUtopiaJava) - sends cryptocurrency to the Utopia ecosystem using the Utopia API.
 
+## Ruby
+
+* [utopialib-ruby](https://github.com/utopia-opensource/utopialib-ruby) - Utopia Ecosystem API wrapper written in Ruby/On Rails.
+
 ## PHP
 
 * [utopialib-php](https://github.com/Sagleft/utopialib-php) - the actively developed library for working with the Utopia API in PHP is a composer package. You can use it to build your sites, web applications and services.
